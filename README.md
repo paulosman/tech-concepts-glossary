@@ -17,3 +17,5 @@ Contributions are welcome, either in the form of content or suggestions for topi
 ## Contributing
 
 Contributions are very welcome! If there is something you think should be included here, please [file an issue](https://github.com/paulosman/tech-jargon-glossary/issues). Similarly, if you'd like to tackle a specific topic and write content, please fork the repository and submit a Pull Request.
+
+Before submitting a contribution, please review the [Code of Conduct](https://github.com/paulosman/tech-jargon-glossary/blob/main/CODE_OF_CONDUCT.md).
