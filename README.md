@@ -8,8 +8,8 @@ Contributions are welcome, either in the form of content or suggestions for topi
 
 ## Table of Contents
 
-- [Bitmasks](https://github.com/paulosman/tech-jargon-glossary/tree/main/bitmasks)
-- Circuit Breaking (In Progress)
+- [Bitmasks](./bitmasks/)
+- [Circuit Breaking](./circuit-breaking/)
 - Database Sharding (In Progress)
 - Exponential Backoff (In Progress)
 - Load Balancing (In Progress)
