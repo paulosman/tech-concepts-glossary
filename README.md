@@ -1,4 +1,4 @@
-# Tech Jargon Glossary
+# Tech Concepts Glossary
 
 The goal of this project is to create an accessible glossary of terms, practices and tools in software that might be confusing to people unfamiliar with them. 
 
