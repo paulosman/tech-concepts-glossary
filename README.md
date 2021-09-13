@@ -14,6 +14,13 @@ Contributions are welcome, either in the form of content or suggestions for topi
 - Exponential Backoff (In Progress)
 - Load Balancing (In Progress)
 
+## Ideas Backlog
+
+- Instrumentation (related: Telemetry)
+- CAP Theorem (related: High-Availability, Eventual Consistency, etc)
+- Columnar Datastores
+- Event-Driven I/O
+
 ## Contributing
 
 Contributions are very welcome! If there is something you think should be included here, please [file an issue](https://github.com/paulosman/tech-jargon-glossary/issues). Similarly, if you'd like to tackle a specific topic and write content, please fork the repository and submit a Pull Request.
