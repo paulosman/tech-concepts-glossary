@@ -10,6 +10,7 @@ Contributions are welcome, either in the form of content or suggestions for topi
 
 - [Bitmasks](./bitmasks/)
 - [Circuit Breaking](./circuit-breaking/)
+- [Consistency](./consistency/)
 - Database Sharding (In Progress)
 - Exponential Backoff (In Progress)
 - Load Balancing (In Progress)
